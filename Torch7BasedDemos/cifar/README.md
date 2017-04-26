@@ -1,5 +1,6 @@
 # Instructions
+<br />
+a. clone this repo to your system<br />
+b. call script as follows:<br />
 
-a. clone this repo to your system
-b. call script as follows:
 qlua 
