@@ -23,5 +23,5 @@ Or with visualization enabled:
      qlua cifar_training.lua -visualize
 <br />
 Some results:
-![Alt text]("./acc_plot.png?raw=true "Accuracy plot")
-![Alt text]("./error_plot.png?raw=true "Error plot")
+![Alt text]("TorchDemos/Torch7BasedDemos/acc_plot.png?raw=true "Accuracy plot")
+![Alt text]("TorchDemos/Torch7BasedDemos/error_plot.png?raw=true "Error plot")
