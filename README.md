@@ -2,8 +2,10 @@
 Some torch demos mostly based on official torch examples with some extra features (like feature visualization, responce visualization, confusion matrices, plots etc).
 <br />
 # 1. CifarTraining
-In https://github.com/dimkastan/TorchDemos/
-I provide some modified examples from: https://github.com/torch/demos
+In https://github.com/dimkastan/TorchDemos//Torch7BasedDemos/
+I provide some modified examples from: https://github.com/torch/demos<br />
+At the moment I have added only cifar training.
+
 
 # 2. HEp-2 cell classification using transfer learning
 ... under preparation....
