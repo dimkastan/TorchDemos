@@ -9,11 +9,16 @@ luarocks install cunn <br /> (Optional, only if you want to run on the GPU)
 <br />
 Run the demo:
 <br /> On CPU<br />
-qlua cifar_training.lua
+
+    qlua cifar_training.lua
+    
 <br /> On GPU <br />
-qlua cifar_training.lua -cuda
+
+    qlua cifar_training.lua -cuda
+    
 <br />
 Or with visualization enabled:
 <br />
-qlua cifar_training.lua -visualize
+
+     qlua cifar_training.lua -visualize
 
